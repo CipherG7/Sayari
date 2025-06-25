@@ -179,7 +179,7 @@ module jamiifund::core {
     }
 
     // Initialize the JamiiFund platform
-    fun init(ctx: &mut TxContext) {
+    public fun initialize(ctx: &mut TxContext) {
         let jamiifund = JamiiFund {
             id: object::new(ctx),
             admin: tx_context::sender(ctx),

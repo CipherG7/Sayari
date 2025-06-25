@@ -62,7 +62,7 @@ export default function HomePage() {
       name: "Amara Ngao",
       role: "Small Business Owner",
       content:
-        "Jamii Fund helped me grow my business with a fair loan from my community. The democratic process made me feel heard and valued.",
+        "Sayari helped me grow my business with a fair loan from my community. The democratic process made me feel heard and valued.",
       avatar: "AO",
     },
     {
@@ -175,7 +175,7 @@ export default function HomePage() {
       <section className="py-20 px-4">
         <div className="container mx-auto">
           <div className="text-center mb-16">
-            <h2 className="text-4xl font-bold text-gray-900 mb-4 animate-fade-in-up">How Jamii Fund Works</h2>
+            <h2 className="text-4xl font-bold text-gray-900 mb-4 animate-fade-in-up">How Sayari Works</h2>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto animate-fade-in-up animation-delay-200">
               Experience the power of community-driven finance with our comprehensive platform
             </p>
@@ -290,9 +290,9 @@ export default function HomePage() {
             <div>
               <div className="flex items-center space-x-2 mb-4">
                 <div className="w-8 h-8 bg-gradient-to-r from-orange-600 to-red-600 rounded-full flex items-center justify-center">
-                  <span className="text-white font-bold text-sm">J</span>
+                  <span className="text-white font-bold text-sm">S</span>
                 </div>
-                <span className="text-xl font-bold">JamiiFund</span>
+                <span className="text-xl font-bold">Sayari</span>
               </div>
               <p className="text-gray-400">Empowering communities through decentralized savings and lending</p>
             </div>
@@ -363,7 +363,7 @@ export default function HomePage() {
             </div>
           </div>
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-            <p>&copy; 2025 Jamii Fund. All rights reserved.</p>
+            <p>&copy; 2025 Sayari. All rights reserved.</p>
           </div>
         </div>
       </footer>

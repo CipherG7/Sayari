@@ -9,7 +9,7 @@ import { useBlockchainData } from "../../hooks/use-blockchain-data"
 import { useCurrentAccount } from '@mysten/dapp-kit';
 import type { WalletAccount } from '@mysten/wallet-standard';
 import { formatAddress } from "@mysten/sui.js/utils"
-import { PiggyBank, Users } from "../../components/icons" // Import PiggyBank and Users components
+import { PiggyBank, Users } from "lucide-react" // Use lucide-react icons as a replacement
 
 export default function DashboardPage() {
   const [activeTab, setActiveTab] = useState("overview")

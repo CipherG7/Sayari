@@ -44,7 +44,7 @@ export function Header() {
             {/* Logo */}
             <Link href="/" className="flex items-center space-x-2 hover:opacity-80 transition-opacity">
               <Coins className="h-8 w-8 text-orange-600" />
-              <span className="text-2xl font-bold text-gray-900">Jamii Fund</span>
+              <span className="text-2xl font-bold text-gray-900">Sayari</span>
             </Link>
 
             {/* Desktop Navigation */}

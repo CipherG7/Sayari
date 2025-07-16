@@ -1,6 +1,6 @@
-# JamiiFund
+# SAYARI
 
-**JamiiFund** is a decentralized community savings and micro-lending platform built on the Sui blockchain. Inspired by African traditions of communal support, JamiiFund enables members to contribute funds, access loans, and build wealth transparently and securely.
+**Sayari** is a decentralized community savings and micro-lending platform built on the Sui blockchain. Inspired by African traditions of communal support, Sayari enables members to contribute funds, access loans, and build wealth transparently and securely.
 
 ## Problem Statement
 Many informal savings groups (popularly known as Chamas) in Africa face:
@@ -10,10 +10,10 @@ Many informal savings groups (popularly known as Chamas) in Africa face:
 * Loan defaults with no recourse
 * No transparency in contributions or voting
 
-JamiiFund solves these challenges using smart contracts, automated governance, and on-chain transparency.
+Sayari solves these challenges using smart contracts, automated governance, and on-chain transparency.
 
 ## Our Solution
-JamiiFund provides:
+Sayari provides:
 
 **On-chain Contribution Tracking** – no more paper records
 **Trustless Loans** – governed by smart contract rules
@@ -84,7 +84,7 @@ JamiiFund provides:
 
 ## Name Meaning
 
-> **"JamiiFund"** = *Community Fund* in Swahili. It represents the power of people coming together to save, lend, and grow.
+> **"Sayari"** = *Universe* in Swahili. It represents the power of people coming together to save, lend, and grow.
 
 
 ## Built With
@@ -102,4 +102,4 @@ JamiiFund provides:
 * Mobile-first UI
 
 
-JamiiFund – Built for Africa. Powered by community. Secured by Sui blockchain.
+Sayari – Built for Africa. Powered by community. Secured by Sui blockchain.
